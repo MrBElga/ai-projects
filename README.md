@@ -5,7 +5,7 @@ A collection of Artificial Intelligence projects developed as part of my univers
 
 ## ⚠️ Important Notes  
 
-1. **Dataset Size**: Some datasets, such as **MNIST**, have been removed from the repository due to their size, as Git does not support very large files. However, these datasets are widely available and can be easily downloaded from the internet. Instructions on how to obtain them are provided within the respective project folders.  
+1. **Dataset Size**: Some datasets, such as **MNIST**, have been removed from the repository due to their size, as Git does not support very large files. However, these datasets are widely available and can be easily downloaded from the internet.  
 
 2. **Academic Integrity**: **Some larger university projects, like academic assignments, have not been included in this repository to prevent plagiarism by other students.** If you are looking for inspiration or help with similar projects, feel free to reach out, and I'll be happy to guide you without compromising academic integrity.  
 

@@ -3,8 +3,16 @@ A collection of Artificial Intelligence projects developed as part of my univers
 
 ---
 
+## ⚠️ Important Notes  
+
+1. **Dataset Size**: Some datasets, such as **MNIST**, have been removed from the repository due to their size, as Git does not support very large files. However, these datasets are widely available and can be easily downloaded from the internet. Instructions on how to obtain them are provided within the respective project folders.  
+
+2. **Academic Integrity**: **Some larger university projects, like academic assignments, have not been included in this repository to prevent plagiarism by other students.** If you are looking for inspiration or help with similar projects, feel free to reach out, and I'll be happy to guide you without compromising academic integrity.  
+
+---
+
 ## 🎓 About This Repository  
-This repository showcases projects I worked on during my time at university. Each folder contains code, datasets, and documentation related to a specific problem or dataset, using popular AI tools and libraries like TensorFlow, Scikit-learn, and Pandas.  
+This repository showcases projects I worked on during my time at university. Each folder contains code, datasets, or documentation related to a specific AI topic.  
 
 ---
 
@@ -17,27 +25,28 @@ This repository showcases projects I worked on during my time at university. Eac
 5. [GatoCachorro](#gatocachorro)  
 6. [Gasto Gasolina](#gasto-gasolina)  
 7. [Estudante](#estudante)  
-8. [Dataset](#dataset)  
-9. [Corn](#corn)  
-10. [Carros](#carros)  
-11. [Breast](#breast)  
-12. [BigMartSalePredict](#bigmartsalepredict)  
-13. [BaseCategoriga](#basecategoriga)  
+8. [Corn](#corn)  
+9. [Carros](#carros)  
+10. [Breast](#breast)  
+11. [BigMartSalePredict](#bigmartsalepredict)  
+12. [BaseCategoriga](#basecategoriga)  
+13. [RefesAutoEncoders](#refesautoencoders)  
+14. [LSTM](#lstm)  
+15. [XGBoost](#xgboost)  
 
 ---
 
 ## 📘 Project Descriptions  
 
 ### 1️⃣ Petra  
-- **Description**: [Add a short description of this project].  
 - **Techniques used**: [E.g., Neural Networks, Decision Trees].  
 
 ### 2️⃣ MNIST  
 - **Description**: Classification of handwritten digits using the famous **MNIST dataset**.  
 - **Techniques used**: Deep Learning, **Convolutional Neural Networks (CNNs)**.  
+- **Dataset Note**: The MNIST dataset was removed from the repository due to size limitations. You can easily download it from popular sources like TensorFlow or the [official MNIST website](http://yann.lecun.com/exdb/mnist/).  
 
 ### 3️⃣ Maçã  
-- **Description**: [Add a short description of this project].  
 - **Techniques used**: [E.g., Data Preprocessing, Regression Models].  
 
 ### 4️⃣ Iris  
@@ -49,24 +58,18 @@ This repository showcases projects I worked on during my time at university. Eac
 - **Techniques used**: **Convolutional Neural Networks**, Transfer Learning.  
 
 ### 6️⃣ Gasto Gasolina  
-- **Description**: [Add a short description of this project].  
 - **Techniques used**: [E.g., Linear Regression, Feature Engineering].  
 
 ### 7️⃣ Estudante  
-- **Description**: [Add a short description of this project].  
 - **Techniques used**: [E.g., Clustering, Prediction Models].  
 
-### 8️⃣ Dataset  
-- **Description**: [Add a short description of this project].  
-- **Techniques used**: [Specify methods applied].  
-
-### 9️⃣ Corn  
-- **Description**: [Add a short description of this project].  
-- **Techniques used**: Image Processing, Classification.  
+### 8️⃣ Corn  
+- **Description**: This folder contains a dataset related to corn analysis.  
+- **Purpose**: [Dataset used for specific project-related tasks].  
 
 ### 🔟 Carros  
-- **Description**: [Add a short description of this project].  
-- **Techniques used**: [E.g., Recommendation Systems].  
+- **Description**: Dataset folder related to car data analysis.  
+- **Purpose**: Provides data for projects involving car-related predictions or analyses.  
 
 ### 1️⃣1️⃣ Breast  
 - **Description**: Predicting breast cancer diagnosis based on medical data.  
@@ -77,14 +80,21 @@ This repository showcases projects I worked on during my time at university. Eac
 - **Techniques used**: Regression Models, Data Cleaning.  
 
 ### 1️⃣3️⃣ BaseCategoriga  
-- **Description**: [Add a short description of this project].  
-- **Techniques used**: [Specify methods applied].  
+- **Description**: Dataset folder used for categorization tasks.  
+- **Purpose**: Supports other projects by providing labeled datasets.  
+
+### 1️⃣4️⃣ RefesAutoEncoders  
+- **Description**: Contains autoencoder-related datasets and experiments.  
+
+### 1️⃣5️⃣ LSTM  
+- **Description**: Focused on Long Short-Term Memory (LSTM) networks for sequence prediction tasks.  
+
+### 1️⃣6️⃣ XGBoost  
+- **Description**: Folder for experiments using the XGBoost algorithm on structured datasets.  
 
 ---
 
-
-###🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 - **Python**
 - **Google Colab**
 - **Libraries:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, etc.
-
